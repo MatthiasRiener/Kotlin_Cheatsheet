@@ -341,3 +341,17 @@ eventuell hilfreich:
 ```
 val dateTime = LocalDateTime.of(date, time)
 ```
+
+# Mehrsprachigkeit
+
+```
+1. In der Datei "strings.xml" erscheint am oberen Rand eine Leiste, in der neben der Beschreibung "Edit translations for all ..." auch zwei Buttons zu finden sind. Mit Klick auf den Button "Open Editor" gelangt man dann in den benötigten Editor.
+```
+
+```
+2. In diesem Editor kann man dann mit einem Klick auf die Weltkugel mit dem Plus die gewünschte Sprache hinzufügen und die Strings je nachdem anpassen.
+```
+
+```
+3. Durch ändern der Systemeinstellungen des Emulators hinsichtlich Sprache, werden die Strings dann je nach Einstellung angepasst.
+```
