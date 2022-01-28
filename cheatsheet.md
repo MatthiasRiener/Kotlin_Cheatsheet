@@ -18,6 +18,7 @@
 - [MainViewModel](#mainviewmodel)
 - [Klasse Test](#klasse-test)
 - [DatePicker & TimePicker](#datepicker--timepicker)
+- [Mehrsprachigkeit](#mehrsprachigkeit)
 
 # Projekt anlegen
 ### Projekt anlegen
